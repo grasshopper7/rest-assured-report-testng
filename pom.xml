@@ -35,7 +35,7 @@
 		<dependency>
 			<groupId>tech.grasshopper</groupId>
 			<artifactId>extentreport-allure-annotation</artifactId>
-			<version>1.0.0</version>
+			<version>1.0</version>
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
