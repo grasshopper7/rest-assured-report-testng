@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>tech.grasshopper</groupId>
 	<artifactId>rest-assured-report-testng</artifactId>
-	<version>1.0.0</version>
+	<version>1.4.0</version>
 
 	<properties>
 		<aspectj.version>1.9.6</aspectj.version>
