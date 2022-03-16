@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>tech.grasshopper</groupId>
 	<artifactId>rest-assured-report-testng</artifactId>
-	<version>1.5.0</version>
+	<version>1.6.0</version>
 
 	<properties>
 		<allure.results.directory>${project.build.directory}/allure-results
@@ -34,7 +34,7 @@
 		<dependency>
 			<groupId>tech.grasshopper</groupId>
 			<artifactId>extentreport-allure-annotation</artifactId>
-			<version>1.0</version>
+			<version>1.0.1</version>
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
@@ -79,7 +79,7 @@
 			<plugin>
 				<groupId>tech.grasshopper</groupId>
 				<artifactId>rest-assured-extent-report-plugin</artifactId>
-				<version>1.5.0</version>
+				<version>1.6.0</version>
 				<executions>
 					<execution>
 						<id>report</id>
