@@ -21,6 +21,7 @@ public class CityAirDataIT {
 
 	private static final String token = "1a5d8f027e344fa191b88e966bdb5d4aa4853d4a";
 
+	// @Test(invocationCount = 3)
 	@Test
 	@Categories({ @Category("Europe") })
 	@Devices({ @Device("Mac"), @Device("Windows") })
